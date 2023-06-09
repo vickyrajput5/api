@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title":"Conversational AI Support:",
+        "description":"Engage in natural conversations with our AI-powered compliance assistant, eliminating the need for expensive consultants. Get instant and accurate guidance on DOT regulations and procedures.",
+        "image":"https://ibb.co/2KFgkpw"
+    },
+    {
+        "id":2,
+        "title":"Streamlined Compliance Documentation",
+        "description":"Simplify your compliance tasks with our user-friendly interface. Create and manage forms, documents, and reports effortlessly, saving time and reducing administrative burden.",
+        "image":"https://ibb.co/LP9Dvg0"
+    },
+    {
+        "id":3,
+        "title":"Up-to-Date Regulatory Knowledge:",
+        "description":"Stay ahead of the curve with our continuously updated knowledge base. Our AI system ensures that you are always informed about the latest changes in DOT regulations",
+        "image":"https://ibb.co/b6hqZXd"
+    },
+    {
+        "id":4,
+        "title":"Cost-Effective Solution",
+        "description":"We understand the financial constraints of small operators. Comply Core offers an affordable compliance management solution that fits within your budget, allowing you to focus on growing your business",
+        "image":"https://ibb.co/6rs5LLQ"
+    },
+    {
+        "id":5,
+        "title":"Industry Tools",
+        "description":"Engage in natural conversations with our AI-powered compliance assistant, eliminating the need for expensive consultants. Get instant and accurate guidance on DOT regulations and procedures.",
+        "image":"https://ibb.co/KwWGsKf"
+    },
+    {
+        "id":6,
+        "title":"Programme Machine",
+        "description":"Simplify your compliance tasks with our user-friendly interface. Create and manage forms, documents, and reports effortlessly, saving time and reducing administrative burden.",
+        "image":"https://ibb.co/xLZTq1t"
+    },
+    {
+        "id":7,
+        "title":"Industry Infrastructure",
+        "description":"Stay ahead of the curve with our continuously updated knowledge base. Our AI system ensures that you are always informed about the latest changes in DOT regulations",
+        "image":"https://ibb.co/xLZTq1t"
+    },
+    {
+        "id":8,
+        "title":"Building Management",
+        "description":"We understand the financial constraints of small operators. Comply Core offers an affordable compliance management solution that fits within your budget, allowing you to focus on growing your business",
+        "image":"https://ibb.co/4VHLWcc"
+    }
+]
